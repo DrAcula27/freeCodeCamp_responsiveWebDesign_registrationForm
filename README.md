@@ -6,7 +6,7 @@
 
 ## Project Information
 
-The first of four(4) learning projects before the first certification project in freeCodeCamp's [Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
+The fourth of four(4) learning projects before the first certification project in freeCodeCamp's [Responsive Web Design course](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
 
 The course/project description from their website is as follows:
 
